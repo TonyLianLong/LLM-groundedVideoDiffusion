@@ -21,7 +21,7 @@ LLM generates dynamic scene layouts, taking the camera properties (e.g., perspec
 
 We propose a benchmark of five tasks. Our method improves on all five tasks without specifically aiming for each one:
 
-![](https://llm-grounded-video-diffusion.github.io/visualizations.jpg)
+![](https://llm-grounded-video-diffusion.github.io/visualizations_small.jpg)
 
 ## Code
 The code is coming soon! Meanwhile, give this repo a star to support us!
@@ -32,10 +32,17 @@ Please contact Long (Tony) Lian if you have any questions: `longlian@berkeley.ed
 ## Citation
 If you use our work or our implementation in this repo, or find them helpful, please consider giving a citation.
 ```
-@article{lian2023llmgrounded,
+@article{lian2023llmgroundedvideo,
       title={LLM-grounded Video Diffusion Models}, 
       author={Lian, Long and Shi, Baifeng and Yala, Adam and Darrell, Trevor and Li, Boyi},
       journal={arXiv preprint arXiv:2309.17444},
       year={2023},
+}
+
+@article{lian2023llmgrounded,
+    title={LLM-grounded Diffusion: Enhancing Prompt Understanding of Text-to-Image Diffusion Models with Large Language Models}, 
+    author={Lian, Long and Li, Boyi and Yala, Adam and Darrell, Trevor},
+    journal={arXiv preprint arXiv:2305.13655},
+    year={2023}
 }
 ```
