@@ -1,0 +1,17 @@
+--extra-index-url https://download.pytorch.org/whl/cu113
+numpy
+scipy
+torch==2.0.0
+diffusers==0.27.2
+transformers==4.36.2
+opencv-python==4.7.0.72
+opencv-contrib-python==4.7.0.72
+inflect==6.0.4
+easydict
+accelerate==0.21.0
+gradio==3.35.2
+pydantic==1.10.7
+scikit-video==1.1.11
+imageio==2.34.1
+pyjson5==1.6.6
+joblib==1.4.2
